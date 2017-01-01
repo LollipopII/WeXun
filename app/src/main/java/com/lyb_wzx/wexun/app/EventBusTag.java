@@ -5,5 +5,6 @@ package com.lyb_wzx.wexun.app;
  * Contact with jess.yan.effort@gmail.com
  */
 public interface EventBusTag {
+    //ceshi
 
 }
