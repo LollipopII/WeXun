@@ -10,6 +10,7 @@ import com.lyb.framework.base.BaseService;
 public class DemoService extends BaseService {
     @Override
     public void init() {
-
+//jhk
     }
+
 }
